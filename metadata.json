@@ -1,0 +1,6 @@
+{
+  "name": "ExamSecure",
+  "description": "Online Examination & Proctoring Platform with webcam monitoring, automated evaluation, timed exams, and result analytics.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
